@@ -158,7 +158,7 @@ export default function NBAStarting5Game() {
       }
     }
     
-    return `NBA Starting 5 Game\n${formattedDate}\n${resultText}\n\n${squares}`;
+    return `NBA Starting 5 Game\n${formattedDate}\n${resultText}\n\n${squares}\n\nhttps://nba-starting-5.netlify.app/`;
   };
 
   const handleShare = async () => {
