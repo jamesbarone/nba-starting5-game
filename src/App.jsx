@@ -134,7 +134,7 @@ export default function NBAStarting5Game() {
 
   const generateShareText = () => {
     const todayDate = getTodayDateString();
-    const formattedDate = new Date(todayDate).toLocaleDateString('en-US', { 
+    const formattedDate = new Date().toLocaleDateString('en-US', { 
       month: 'long', 
       day: 'numeric', 
       year: 'numeric' 
