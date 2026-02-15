@@ -1,7 +1,46 @@
 export const NBA_LINEUPS = [
   // 2024
+  // Eastern Conference - Atlantic Division
   { year: 2024, team: "Boston Celtics", players: ["Jrue Holiday", "Derrick White", "Jaylen Brown", "Jayson Tatum", "Kristaps Porzingis"] },
+  { year: 2024, team: "Brooklyn Nets", players: ["Spencer Dinwiddie", "Mikal Bridges", "Cam Johnson", "Dorian Finney-Smith", "Nic Claxton"] },
+  { year: 2024, team: "New York Knicks", players: ["Jalen Brunson", "Donte DiVincenzo", "Josh Hart", "Julius Randle", "Mitchell Robinson"] },
+  { year: 2024, team: "Philadelphia 76ers", players: ["Tyrese Maxey", "Kelly Oubre Jr.", "Tobias Harris", "Nicolas Batum", "Joel Embiid"] },
+  { year: 2024, team: "Toronto Raptors", players: ["Dennis Schroder", "Gary Trent Jr.", "O.G. Anunoby", "Scottie Barnes", "Jakob Poeltl"] },
+  
+  // Eastern Conference - Central Division
+  { year: 2024, team: "Chicago Bulls", players: ["Coby White", "Zach LaVine", "DeMar DeRozan", "Patrick Williams", "Nikola Vucevic"] },
+  { year: 2024, team: "Cleveland Cavaliers", players: ["Darius Garland", "Donovan Mitchell", "Max Strus", "Evan Mobley", "Jarrett Allen"] },
+  { year: 2024, team: "Detroit Pistons", players: ["Cade Cunningham", "Jaden Ivey", "Ausar Thompson", "Tobias Harris", "Jalen Duren"] },
+  { year: 2024, team: "Indiana Pacers", players: ["Tyrese Haliburton", "Andrew Nembhard", "Aaron Nesmith", "Pascal Siakam", "Myles Turner"] },
+  { year: 2024, team: "Milwaukee Bucks", players: ["Damian Lillard", "Malik Beasley", "Khris Middleton", "Giannis Antetokounmpo", "Brook Lopez"] },
+  
+  // Eastern Conference - Southeast Division
+  { year: 2024, team: "Atlanta Hawks", players: ["Trae Young", "Dejounte Murray", "Bogdan Bogdanovic", "Saddiq Bey", "Clint Capela"] },
+  { year: 2024, team: "Charlotte Hornets", players: ["LaMelo Ball", "Terry Rozier", "Brandon Miller", "Miles Bridges", "Mark Williams"] },
+  { year: 2024, team: "Miami Heat", players: ["Kyle Lowry", "Tyler Herro", "Jimmy Butler", "Caleb Martin", "Bam Adebayo"] },
+  { year: 2024, team: "Orlando Magic", players: ["Markelle Fultz", "Jalen Suggs", "Franz Wagner", "Paolo Banchero", "Wendell Carter Jr."] },
+  { year: 2024, team: "Washington Wizards", players: ["Tyus Jones", "Jordan Poole", "Bilal Coulibaly", "Kyle Kuzma", "Daniel Gafford"] },
+  
+  // Western Conference - Northwest Division
   { year: 2024, team: "Denver Nuggets", players: ["Jamal Murray", "Kentavious Caldwell-Pope", "Michael Porter Jr.", "Aaron Gordon", "Nikola Jokic"] },
+  { year: 2024, team: "Minnesota Timberwolves", players: ["Mike Conley", "Anthony Edwards", "Jaden McDaniels", "Karl-Anthony Towns", "Rudy Gobert"] },
+  { year: 2024, team: "Oklahoma City Thunder", players: ["Shai Gilgeous-Alexander", "Josh Giddey", "Luguentz Dort", "Jalen Williams", "Chet Holmgren"] },
+  { year: 2024, team: "Portland Trail Blazers", players: ["Malcolm Brogdon", "Anfernee Simons", "Shaedon Sharpe", "Jerami Grant", "Deandre Ayton"] },
+  { year: 2024, team: "Utah Jazz", players: ["Collin Sexton", "Jordan Clarkson", "Lauri Markkanen", "John Collins", "Walker Kessler"] },
+  
+  // Western Conference - Pacific Division
+  { year: 2024, team: "Golden State Warriors", players: ["Stephen Curry", "Klay Thompson", "Andrew Wiggins", "Draymond Green", "Trayce Jackson-Davis"] },
+  { year: 2024, team: "LA Clippers", players: ["Russell Westbrook", "James Harden", "Kawhi Leonard", "Paul George", "Ivica Zubac"] },
+  { year: 2024, team: "Los Angeles Lakers", players: ["D'Angelo Russell", "Austin Reaves", "LeBron James", "Rui Hachimura", "Anthony Davis"] },
+  { year: 2024, team: "Phoenix Suns", players: ["Bradley Beal", "Devin Booker", "Kevin Durant", "Grayson Allen", "Jusuf Nurkic"] },
+  { year: 2024, team: "Sacramento Kings", players: ["De'Aaron Fox", "Kevin Huerter", "Harrison Barnes", "Keegan Murray", "Domantas Sabonis"] },
+  
+  // Western Conference - Southwest Division
+  { year: 2024, team: "Dallas Mavericks", players: ["Luka Doncic", "Kyrie Irving", "Derrick Jones Jr.", "P.J. Washington", "Daniel Gafford"] },
+  { year: 2024, team: "Houston Rockets", players: ["Fred VanVleet", "Jalen Green", "Dillon Brooks", "Jabari Smith Jr.", "Alperen Sengun"] },
+  { year: 2024, team: "Memphis Grizzlies", players: ["Ja Morant", "Desmond Bane", "Ziaire Williams", "Jaren Jackson Jr.", "Steven Adams"] },
+  { year: 2024, team: "New Orleans Pelicans", players: ["CJ McCollum", "Herb Jones", "Brandon Ingram", "Zion Williamson", "Jonas Valanciunas"] },
+  { year: 2024, team: "San Antonio Spurs", players: ["Tre Jones", "Devin Vassell", "Keldon Johnson", "Jeremy Sochan", "Victor Wembanyama"] },
   
   // 2023
   { year: 2023, team: "Denver Nuggets", players: ["Jamal Murray", "Kentavious Caldwell-Pope", "Michael Porter Jr.", "Aaron Gordon", "Nikola Jokic"] },
